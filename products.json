@@ -1,0 +1,51 @@
+ 
+[
+    {
+    "name": "Wireless Earbuds",
+    "description": "High-quality Bluetooth earbuds with noise-cancellation and long battery life.",
+    "price": 49.99,
+    "categories": ["Electronics", "Audio", "Accessories"]
+    },
+    {
+    "name": "Organic Green Tea",
+    "description": "Premium loose leaf green tea, sourced from organic farms.",
+    "price": 12.50,
+    "categories": ["Food & Beverage"]
+    },
+    {
+    "name": "Yoga Mat",
+    "description": "Non-slip, eco-friendly yoga mat with extra padding for comfort.",
+    "price": 29.99,
+    "categories": ["Fitness", "Wellness"]
+    },
+    {
+    "name": "Stainless Steel Water Bottle",
+    "description": "Insulated water bottle to keep drinks cold or hot for hours.",
+    "price": 19.99,
+    "categories": ["Fitness", "Accessories"]
+    },
+    {
+    "name": "Smartphone Holder",
+    "description": "Adjustable smartphone holder for desks and countertops.",
+    "price": 15.00,
+    "categories": ["Electronics", "Accessories"]
+    },
+    {
+    "name": "LED Desk Lamp",
+    "description": "Energy-efficient LED desk lamp with adjustable brightness and touch controls.",
+    "price": 35.75,
+    "categories": ["Home & Office", "Electronics"]
+    },
+    {
+    "name": "Wireless Keyboard",
+    "description": "Sleek, compact wireless keyboard with quiet keys and long battery life.",
+    "price": 28.50,
+    "categories": ["Electronics", "Accessories"]
+    },
+    {
+    "name": "Running Shoes",
+    "description": "Lightweight running shoes with breathable fabric and durable soles.",
+    "price": 59.99,
+    "categories": ["Fitness"]
+    }
+]
